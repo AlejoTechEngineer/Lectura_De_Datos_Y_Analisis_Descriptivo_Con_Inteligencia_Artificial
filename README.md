@@ -382,7 +382,7 @@ bike-sharing-analysis/
 
 ### 🔧 Preprocesamiento
 
-<table>
+<table align="center">
 <tr>
 <td>
 
