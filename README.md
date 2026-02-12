@@ -56,26 +56,37 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 ## ✨ Características Principales
 
-<table align="center">
-<tr>
-<td width="50%">
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🔍 Análisis Exploratorio
-- ✅ Verificación de calidad de datos
-- ✅ Detección de valores faltantes
-- ✅ Identificación de outliers (IQR)
-- ✅ Tests de normalidad (Shapiro-Wilk, KS)
-- ✅ Análisis de asimetría y curtosis
+<h3>🔍 Análisis Exploratorio</h3>
 
-</td>
-<td width="50%">
+<ul>
+  <li>✅ Verificación de calidad de datos</li>
+  <li>✅ Detección de valores faltantes</li>
+  <li>✅ Identificación de outliers (IQR)</li>
+  <li>✅ Tests de normalidad (Shapiro-Wilk, KS)</li>
+  <li>✅ Análisis de asimetría y curtosis</li>
+</ul>
 
-### 📈 Análisis Estadístico
-- 📊 Correlación Pearson y Spearman
-- 📊 Detección de multicolinealidad
-- 📊 Análisis de distribuciones
-- 📊 Patrones temporales y patrones estacionales
-- 📊 Segmentación por usuarios
+    </td>
+    <td width="50%" valign="top">
+
+<h3>📈 Análisis Estadístico</h3>
+
+<ul>
+  <li>📊 Correlación Pearson y Spearman</li>
+  <li>📊 Detección de multicolinealidad</li>
+  <li>📊 Análisis de distribuciones</li>
+  <li>📊 Patrones temporales y patrones estacionales</li>
+  <li>📊 Segmentación por usuarios</li>
+</ul>
+
+    </td>
+  </tr>
+</table>
+
 
 </td>
 </tr>
