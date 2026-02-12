@@ -202,7 +202,7 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
 
 ### 🎯 Variable Respuesta: `cnt` (Alquileres Totales)
 
-<table style="border-collapse: collapse; width: 60%;">
+<table align="center", style="border-collapse: collapse; width: 60%;">
   <tr style="background-color: #f2f2f2;">
     <th style="border: 1px solid #ddd; padding: 8px;">Métrica</th>
     <th style="border: 1px solid #ddd; padding: 8px;">Valor</th>
