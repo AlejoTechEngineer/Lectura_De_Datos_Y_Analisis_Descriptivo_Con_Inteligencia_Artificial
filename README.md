@@ -483,6 +483,8 @@ df['is_summer'] = (df['season'] == 2).astype(int)
 | ✅ Análisis de Correlaciones | Completado |
 | ✅ Análisis de Distribuciones | Completado |
 | ✅ División Train/Test | Completado |
+| ⏳ Modelización | Pendiente |
+| ⏳ Deploy | Pendiente |
 
 </div>
 
@@ -507,6 +509,8 @@ df['is_summer'] = (df['season'] == 2).astype(int)
 <div align="center">
 
 ### 🚴‍♂️ *Hecho con* ❤️ *y mucho* ☕ *en Bogotá, Colombia*
+
+**[⬆ Volver arriba](#-bike-sharing-analytics-dashboard)**
 
 ---
 
