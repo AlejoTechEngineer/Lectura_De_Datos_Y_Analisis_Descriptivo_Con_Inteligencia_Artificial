@@ -204,7 +204,7 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
 
 <h3>📊 Estadísticas Descriptivas</h3>
 
-<table>
+<table align="center">
   <tr>
     <th>Métrica</th>
     <th>Valor</th>
