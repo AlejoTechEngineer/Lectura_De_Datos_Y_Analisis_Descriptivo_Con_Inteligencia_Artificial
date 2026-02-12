@@ -203,18 +203,19 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
 ### 🎯 Variable Respuesta: `cnt` (Alquileres Totales)
 
 ```
-┌─────────────────────────────────────────┐
-│  Estadísticas Descriptivas              │
-├─────────────────┬───────────────────────┤
-│ Media           │ 4,504 alquileres/día  │
-│ Mediana         │ 4,548 alquileres/día  │
-│ Desv. Estándar  │ 1,937                 │
-│ Mínimo          │ 22                    │
-│ Máximo          │ 8,714                 │
-│ Coef. Variación │ 43% (alta dispersión) │
-│ Asimetría       │ ≈ 0 (simétrica)       │
-│ Test Normalidad │ ❌ No normal (p<0.05) │
-└─────────────────┴───────────────────────┘
+### 📊 Estadísticas Descriptivas
+
+| Métrica           | Valor                     |
+|------------------|--------------------------|
+| Media            | 4,504 alquileres/día     |
+| Mediana          | 4,548 alquileres/día     |
+| Desv. Estándar   | 1,937                    |
+| Mínimo           | 22                       |
+| Máximo           | 8,714                    |
+| Coef. Variación  | 43% (alta dispersión)    |
+| Asimetría        | ≈ 0 (simétrica)          |
+| Test Normalidad  | ❌ No normal (p < 0.05)  |
+
 ```
 
 ### 🔗 Top Correlaciones con `cnt`
