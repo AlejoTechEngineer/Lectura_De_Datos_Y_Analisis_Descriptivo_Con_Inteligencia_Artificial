@@ -632,8 +632,6 @@ df['is_summer'] = (df['season'] == 2).astype(int)
 
 ### 🚴‍♂️ *Hecho con* ❤️ *y mucho* ☕ *en Bogotá, Colombia*
 
-**[⬆ Volver arriba](#-bike-sharing-analytics-dashboard)**
-
 ---
 
 *Última actualización: Febrero 2026*
