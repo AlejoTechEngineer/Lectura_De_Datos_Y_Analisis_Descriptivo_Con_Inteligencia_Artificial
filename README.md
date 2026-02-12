@@ -581,9 +581,7 @@ df['is_summer'] = (df['season'] == 2).astype(int)
 
 ### 🎓 Contexto Académico
 
-- **Curso:** Aprendizaje Automático y Minería de Datos
-- **Institución:** Fundación Universitaria Internacional de La Rioja
-- **Profesor:** Ing. Rogerio Orlando Beltrán Castro
+- **Proyecto:** Aprendizaje Automático y Minería de Datos con IA
 - **Fecha:** Febrero 2026
 
 ---
