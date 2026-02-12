@@ -58,7 +58,7 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 <table align="center">
 <tr>
-<td width="51%">
+<td width="53%">
 
 ### 🔍 Análisis Exploratorio
 - ✅ Verificación de calidad de datos
@@ -68,7 +68,7 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 - ✅ Análisis de asimetría y curtosis
 
 </td>
-<td width="51%">
+<td width="53%">
 
 ### 📈 Análisis Estadístico
 - 📊 Correlación Pearson y Spearman
