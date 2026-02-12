@@ -202,46 +202,45 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
 
 ### 🎯 Variable Respuesta: `cnt` (Alquileres Totales)
 
-<h3>📊 Estadísticas Descriptivas</h3>
-
-<table align="center">
-  <tr>
-    <th>Métrica</th>
-    <th>Valor</th>
+<table style="border-collapse: collapse; width: 60%;">
+  <tr style="background-color: #f2f2f2;">
+    <th style="border: 1px solid #ddd; padding: 8px;">Métrica</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Valor</th>
   </tr>
   <tr>
-    <td>Media</td>
-    <td>4,504 alquileres/día</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Media</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">4,504 alquileres/día</td>
   </tr>
   <tr>
-    <td>Mediana</td>
-    <td>4,548 alquileres/día</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Mediana</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">4,548 alquileres/día</td>
   </tr>
   <tr>
-    <td>Desv. Estándar</td>
-    <td>1,937</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Desv. Estándar</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">1,937</td>
   </tr>
   <tr>
-    <td>Mínimo</td>
-    <td>22</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Mínimo</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">22</td>
   </tr>
   <tr>
-    <td>Máximo</td>
-    <td>8,714</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Máximo</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">8,714</td>
   </tr>
   <tr>
-    <td>Coef. Variación</td>
-    <td>43% (alta dispersión)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Coef. Variación</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">43% (alta dispersión)</td>
   </tr>
   <tr>
-    <td>Asimetría</td>
-    <td>≈ 0 (simétrica)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Asimetría</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">≈ 0 (simétrica)</td>
   </tr>
   <tr>
-    <td>Test Normalidad</td>
-    <td>❌ No normal (p &lt; 0.05)</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Test Normalidad</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">❌ No normal (p &lt; 0.05)</td>
   </tr>
 </table>
+
 
 ### 🔗 Top Correlaciones con `cnt`
 
