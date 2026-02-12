@@ -245,7 +245,7 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
 
 ### 🔗 Top Correlaciones con `cnt`
 
-<table>
+<table align="center">
 <tr>
 <th>🔥 Positivas</th>
 <th>❄️ Negativas</th>
