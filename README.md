@@ -100,7 +100,7 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 <h3>📂 Pipeline de Scripts</h3>
 
-<table>
+<table align="center">
   <tr>
     <th>#</th>
     <th>Script</th>
