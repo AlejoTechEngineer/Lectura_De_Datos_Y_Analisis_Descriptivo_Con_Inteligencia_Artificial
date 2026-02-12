@@ -202,7 +202,6 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
 
 ### 🎯 Variable Respuesta: `cnt` (Alquileres Totales)
 
-```
 <h3>📊 Estadísticas Descriptivas</h3>
 
 <table>
@@ -243,9 +242,6 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
     <td>❌ No normal (p &lt; 0.05)</td>
   </tr>
 </table>
-
-
-```
 
 ### 🔗 Top Correlaciones con `cnt`
 
