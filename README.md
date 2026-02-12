@@ -38,12 +38,6 @@
 
 Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de Bike Sharing de Washington D.C., abarcando el período 2011-2012. El objetivo principal es descubrir patrones de uso, identificar factores clave que influyen en la demanda de bicicletas y preparar los datos para modelización predictiva.
 
-### 🎓 Contexto Académico
-
-> Desarrollado como parte del curso **Aprendizaje Automático y Minería de Datos**  
-> **Profesor:** Ing. Rogerio Orlando Beltrán Castro  
-> **Institución:** Fundación Universitaria Internacional de La Rioja
-
 ### 🌟 ¿Por qué este proyecto es especial?
 
 - 🔧 **Arquitectura Modular**: A diferencia de análisis monolíticos, cada fase está separada
