@@ -519,14 +519,44 @@ df['is_summer'] = (df['season'] == 2).astype(int)
 
 ### 🛠️ Herramientas Utilizadas
 
-| Librería | Versión | Propósito |
-|----------|---------|-----------|
-| pandas | 2.0+ | Manipulación de datos |
-| numpy | 1.24+ | Operaciones numéricas |
-| matplotlib | 3.7+ | Visualizaciones base |
-| seaborn | 0.12+ | Visualizaciones estadísticas |
-| scipy | 1.10+ | Tests estadísticos |
-| scikit-learn | 1.3+ | División train/test |
+<table align="center">
+  <tr>
+    <th>Librería</th>
+    <th>Versión</th>
+    <th>Propósito</th>
+  </tr>
+  <tr>
+    <td><code>pandas</code></td>
+    <td><code>2.0+</code></td>
+    <td>Manipulación de datos</td>
+  </tr>
+  <tr>
+    <td><code>numpy</code></td>
+    <td><code>1.24+</code></td>
+    <td>Operaciones numéricas</td>
+  </tr>
+  <tr>
+    <td><code>matplotlib</code></td>
+    <td><code>3.7+</code></td>
+    <td>Visualizaciones base</td>
+  </tr>
+  <tr>
+    <td><code>seaborn</code></td>
+    <td><code>0.12+</code></td>
+    <td>Visualizaciones estadísticas</td>
+  </tr>
+  <tr>
+    <td><code>scipy</code></td>
+    <td><code>1.10+</code></td>
+    <td>Tests estadísticos</td>
+  </tr>
+  <tr>
+    <td><code>scikit-learn</code></td>
+    <td><code>1.3+</code></td>
+    <td>División train/test</td>
+  </tr>
+</table>
+
 
 ---
 
