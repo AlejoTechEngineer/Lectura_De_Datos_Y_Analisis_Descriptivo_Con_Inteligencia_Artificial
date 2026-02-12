@@ -98,13 +98,47 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 ### 📦 Módulos del Proyecto
 
-| # | Script | Propósito | Output |
-|:-:|--------|-----------|--------|
-| **1** | `01_exploracion_inicial.py` | 🔍 Carga, validación y limpieza | `bike_sharing_clean.csv` |
-| **2** | `02_analisis_variable_respuesta.py` | 📊 Estadísticas descriptivas, normalidad | `02_analisis_variable_respuesta.png` |
-| **3** | `03_analisis_correlaciones.py` | 🔗 Correlaciones, multicolinealidad | `03_analisis_correlaciones.png/csv` |
-| **4** | `04_analisis_distribuciones.py` | 📈 Patrones temporales y categorías | `04_analisis_distribuciones.png` |
-| **5** | `05_division_datos.py` | ✂️ Train/test split temporal | `train_temporal.csv` + `test_temporal.csv` |
+<h3>📂 Pipeline de Scripts</h3>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Script</th>
+    <th>Propósito</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td><b>1</b></td>
+    <td><code>01_exploracion_inicial.py</code></td>
+    <td>🔍 Carga, validación y limpieza</td>
+    <td><code>bike_sharing_clean.csv</code></td>
+  </tr>
+  <tr>
+    <td><b>2</b></td>
+    <td><code>02_analisis_variable_respuesta.py</code></td>
+    <td>📊 Estadísticas descriptivas, normalidad</td>
+    <td><code>02_analisis_variable_respuesta.png</code></td>
+  </tr>
+  <tr>
+    <td><b>3</b></td>
+    <td><code>03_analisis_correlaciones.py</code></td>
+    <td>🔗 Correlaciones, multicolinealidad</td>
+    <td><code>03_analisis_correlaciones.png/csv</code></td>
+  </tr>
+  <tr>
+    <td><b>4</b></td>
+    <td><code>04_analisis_distribuciones.py</code></td>
+    <td>📈 Patrones temporales y categorías</td>
+    <td><code>04_analisis_distribuciones.png</code></td>
+  </tr>
+  <tr>
+    <td><b>5</b></td>
+    <td><code>05_division_datos.py</code></td>
+    <td>✂️ Train/test split temporal</td>
+    <td><code>train_temporal.csv</code> + <code>test_temporal.csv</code></td>
+  </tr>
+</table>
+
 
 > 💡 **Ventaja clave**: Cada módulo es **independiente**, **testeable** y **reutilizable**
 
