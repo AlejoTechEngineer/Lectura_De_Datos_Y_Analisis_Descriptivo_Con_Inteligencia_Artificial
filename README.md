@@ -68,7 +68,7 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 - ✅ Análisis de asimetría y curtosis
 
 </td>
-<td width="100%">
+<td width="50%">
 
 ### 📈 Análisis Estadístico
 - 📊 Correlación Pearson y Spearman
