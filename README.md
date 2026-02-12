@@ -440,13 +440,39 @@ bike-sharing-analysis/
 
 ### 🤖 Modelos Recomendados
 
-| Modelo | Ventaja | Cuándo Usarlo |
-|--------|---------|---------------|
-| **📏 Regresión Lineal** | Interpretabilidad | Baseline, relaciones lineales |
-| **🌲 Random Forest** | Captura no-linealidades | Interacciones complejas |
-| **🚀 XGBoost** | Mejor rendimiento | Competencia, producción |
-| **📊 Ridge/Lasso** | Regularización | Multicolinealidad, selección |
-| **🧠 LSTM** | Secuencias temporales | Si se usan datos horarios |
+<table align="center">
+  <tr>
+    <th>Modelo</th>
+    <th>Ventaja</th>
+    <th>Cuándo Usarlo</th>
+  </tr>
+  <tr>
+    <td><b>📏 Regresión Lineal</b></td>
+    <td>Interpretabilidad</td>
+    <td>Baseline, relaciones lineales</td>
+  </tr>
+  <tr>
+    <td><b>🌲 Random Forest</b></td>
+    <td>Captura no-linealidades</td>
+    <td>Interacciones complejas</td>
+  </tr>
+  <tr>
+    <td><b>🚀 XGBoost</b></td>
+    <td>Mejor rendimiento</td>
+    <td>Competencia, producción</td>
+  </tr>
+  <tr>
+    <td><b>📊 Ridge/Lasso</b></td>
+    <td>Regularización</td>
+    <td>Multicolinealidad, selección</td>
+  </tr>
+  <tr>
+    <td><b>🧠 LSTM</b></td>
+    <td>Secuencias temporales</td>
+    <td>Si se usan datos horarios</td>
+  </tr>
+</table>
+
 
 ### 🔍 Feature Engineering
 
