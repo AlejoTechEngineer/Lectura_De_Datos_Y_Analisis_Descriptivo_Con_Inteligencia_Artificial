@@ -56,9 +56,10 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 ## ✨ Características Principales
 
+<div align="center">
 <table>
 <tr>
-<td width="70%">
+<td width="50%">
 
 ### 🔍 Análisis Exploratorio
 - ✅ Verificación de calidad de datos
