@@ -203,18 +203,47 @@ python 01_exploracion_inicial.py && python 03_analisis_correlaciones.py && pytho
 ### 🎯 Variable Respuesta: `cnt` (Alquileres Totales)
 
 ```
-### 📊 Estadísticas Descriptivas
+<h3>📊 Estadísticas Descriptivas</h3>
 
-| Métrica           | Valor                     |
-|------------------|--------------------------|
-| Media            | 4,504 alquileres/día     |
-| Mediana          | 4,548 alquileres/día     |
-| Desv. Estándar   | 1,937                    |
-| Mínimo           | 22                       |
-| Máximo           | 8,714                    |
-| Coef. Variación  | 43% (alta dispersión)    |
-| Asimetría        | ≈ 0 (simétrica)          |
-| Test Normalidad  | ❌ No normal (p < 0.05)  |
+<table>
+  <tr>
+    <th>Métrica</th>
+    <th>Valor</th>
+  </tr>
+  <tr>
+    <td>Media</td>
+    <td>4,504 alquileres/día</td>
+  </tr>
+  <tr>
+    <td>Mediana</td>
+    <td>4,548 alquileres/día</td>
+  </tr>
+  <tr>
+    <td>Desv. Estándar</td>
+    <td>1,937</td>
+  </tr>
+  <tr>
+    <td>Mínimo</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>Máximo</td>
+    <td>8,714</td>
+  </tr>
+  <tr>
+    <td>Coef. Variación</td>
+    <td>43% (alta dispersión)</td>
+  </tr>
+  <tr>
+    <td>Asimetría</td>
+    <td>≈ 0 (simétrica)</td>
+  </tr>
+  <tr>
+    <td>Test Normalidad</td>
+    <td>❌ No normal (p &lt; 0.05)</td>
+  </tr>
+</table>
+
 
 ```
 
