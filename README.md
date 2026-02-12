@@ -483,8 +483,6 @@ df['is_summer'] = (df['season'] == 2).astype(int)
 | ✅ Análisis de Correlaciones | Completado |
 | ✅ Análisis de Distribuciones | Completado |
 | ✅ División Train/Test | Completado |
-| ⏳ Modelización | Pendiente |
-| ⏳ Deploy | Pendiente |
 
 </div>
 
