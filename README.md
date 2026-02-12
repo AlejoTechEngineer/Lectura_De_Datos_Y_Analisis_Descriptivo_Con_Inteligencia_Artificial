@@ -74,7 +74,7 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 - 📊 Correlación Pearson y Spearman
 - 📊 Detección de multicolinealidad
 - 📊 Análisis de distribuciones
-- 📊 Patrones temporales y estacionales
+- 📊 Patrones temporales y patrones estacionales
 - 📊 Segmentación por usuarios
 
 </td>
