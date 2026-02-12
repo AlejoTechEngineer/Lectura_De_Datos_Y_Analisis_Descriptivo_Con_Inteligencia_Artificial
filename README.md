@@ -64,7 +64,7 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 - ✅ Verificación de calidad de datos
 - ✅ Detección de valores faltantes
 - ✅ Identificación de outliers (IQR)
-- ✅ Tests de normalidad (Shapiro-Wilk, KS)
+- ✅ Tests normalidad (Shapiro-Wilk, KS)
 - ✅ Análisis de asimetría y curtosis
 
 </td>
