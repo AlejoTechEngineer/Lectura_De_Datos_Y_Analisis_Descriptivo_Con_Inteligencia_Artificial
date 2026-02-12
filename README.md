@@ -58,7 +58,7 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 <table align="center">
 <tr>
-<td width="52%">
+<td width="51%">
 
 ### 🔍 Análisis Exploratorio
 - ✅ Verificación de calidad de datos
