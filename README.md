@@ -56,7 +56,6 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 ## ✨ Características Principales
 
-<div align="center">
 <table>
 <tr>
 <td width="50%">
