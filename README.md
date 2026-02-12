@@ -420,30 +420,37 @@ bike-sharing-analysis/
 
 ### 🔧 Preprocesamiento
 
-<table align="center">
-<tr>
-<td>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-#### ✅ Variables a Incluir
-- `temp` (r=0.627)
-- `yr` (r=0.567)
-- `season` (r=0.406)
-- `weathersit` (r=-0.297)
-- `mnth` (temporal)
-- `weekday` (patrón semanal)
+<h4>✅ Variables a Incluir</h4>
 
-</td>
-<td>
+<ul>
+  <li><code>temp</code> (r=0.627)</li>
+  <li><code>yr</code> (r=0.567)</li>
+  <li><code>season</code> (r=0.406)</li>
+  <li><code>weathersit</code> (r=-0.297)</li>
+  <li><code>mnth</code> (temporal)</li>
+  <li><code>weekday</code> (patrón semanal)</li>
+</ul>
 
-#### ❌ Variables a Excluir
-- `atemp` (colinealidad con temp)
-- `casual` (parte de cnt)
-- `registered` (parte de cnt)
-- `instant` (índice sin valor)
+    </td>
+    <td width="50%" valign="top">
 
-</td>
-</tr>
+<h4>❌ Variables a Excluir</h4>
+
+<ul>
+  <li><code>atemp</code> (colinealidad con <code>temp</code>)</li>
+  <li><code>casual</code> (parte de <code>cnt</code>)</li>
+  <li><code>registered</code> (parte de <code>cnt</code>)</li>
+  <li><code>instant</code> (índice sin valor)</li>
+</ul>
+
+    </td>
+  </tr>
 </table>
+
 
 ### 🤖 Modelos Recomendados
 
