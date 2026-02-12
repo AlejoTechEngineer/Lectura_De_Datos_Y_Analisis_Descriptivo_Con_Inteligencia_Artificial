@@ -435,8 +435,6 @@ bike-sharing-analysis/
   <li><code>weekday</code> (patrón semanal)</li>
 </ul>
 
-    </td>
-    <td width="50%" valign="top">
 
 <h4>❌ Variables a Excluir</h4>
 
@@ -447,7 +445,6 @@ bike-sharing-analysis/
   <li><code>instant</code> (índice sin valor)</li>
 </ul>
 
-    </td>
   </tr>
 </table>
 
