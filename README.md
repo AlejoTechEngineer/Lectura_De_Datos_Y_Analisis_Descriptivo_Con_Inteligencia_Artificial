@@ -70,9 +70,6 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
   <li>✅ Análisis de asimetría y curtosis</li>
 </ul>
 
-    </td>
-    <td width="50%" valign="top">
-
 <h3>📈 Análisis Estadístico</h3>
 
 <ul>
@@ -83,7 +80,6 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
   <li>📊 Segmentación por usuarios</li>
 </ul>
 
-    </td>
   </tr>
 </table>
 
