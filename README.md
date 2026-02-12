@@ -98,8 +98,6 @@ Este proyecto implementa un **análisis exploratorio exhaustivo** del dataset de
 
 ### 📦 Módulos del Proyecto
 
-<h3>📂 Pipeline de Scripts</h3>
-
 <table align="center">
   <tr>
     <th>#</th>
